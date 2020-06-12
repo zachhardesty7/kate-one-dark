@@ -45,7 +45,7 @@ repo may include highlighting that's specifically tailored to common languages.
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```sh
-git clone https://github.com/dracula/kate.git
+git clone https://github.com/zachhardesty7/kate-one-dark.git
 ```
 
 ### Manual
