@@ -51,7 +51,7 @@ git clone https://github.com/dracula/kate.git
 ### Manual
 
 Download using the
-[GitHub .zip download](https://github.com/zachhardety7/kate-one-dark/archive/master.zip)
+[GitHub .zip download](https://github.com/zachhardesty7/kate-one-dark/archive/master.zip)
 option and unzip them.
 
 ### Activation
